@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robertmeli-99
+- 👋 Hi, I’m Robert
 - 👀 I’m interested in software security.
 - 🌱 I’m currently learning software development (BSc).
 - 💞️ I’m looking to collaborate on application development (android, kotlin, Java), .net core MVC, API applications (c#).
