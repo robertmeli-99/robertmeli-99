@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in software security.
+- 👀 I’m interested in software security & forensics.
 - 🌱 I’m currently learning software development (BSc).
 - 💞️ I’m looking to collaborate on application development (Android, Kotlin, Java, Flutter), .NET core MVC, API applications (C#).
 - 📫 How to reach me ...
