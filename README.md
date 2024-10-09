@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in software security & forensics.
-- 🌱 I’m currently learning software development (BSc).
-- 💞️ I’m looking to collaborate on application development (Android, Kotlin, Java, Flutter), .NET core MVC, API applications (C#).
+- 👀 I’m interested in distributed applications, automation & DevOps.
+- 🌱 I graduated with a BSc in Software Development from MCAST.
+- 💞️ I’m looking to collaborate on .NET Aspire and .NET Core projects.
 - 📫 How to reach me ...
 
 <!---
